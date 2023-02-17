@@ -1,5 +1,5 @@
 # Weather App
-✏️ A simple SwiftUI app built with Swift, CoreLocation and OpenWeather live API to show the current weather using device's current location. When clicked, the devices coordinates are extracted and used to fetch weather data using the coordinated❗
+✏️ A simple SwiftUI app built with Swift, CoreLocation and OpenWeather live API to show the current weather using device's current location. When clicked, the devices coordinates are extracted and used to fetch weather data using the coordinates❗
 
 
 # Screenshots 
